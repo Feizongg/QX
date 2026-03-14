@@ -6,7 +6,7 @@
 -->
 
 ### 1️⃣ Quantumult X 配置
-  - 配置文件最新维护时间 : 03/14/2026（弃坑用LOON,停止更新）
+  - 配置文件最新维护时间 : 03/14/2026（项目停止更新）
   - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/QX.conf)
   
     > 食用方法 : Quantumult X 设置 -> 下载配置 -> 替换节点信息  
