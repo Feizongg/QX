@@ -2,11 +2,11 @@
 # Author : 废宗·Feizong
 # Version : 2.1
 # URL : https://github.com/Feizongg/QX
-# Update : 02/10/2026 13:43:43 (GMT+8)
+# Update : 03/14/2026 18:03:39 (GMT+8)
 -->
 
 ### 1️⃣ Quantumult X 配置
-  - 配置文件最新维护时间 : 05/31/2025
+  - 配置文件最新维护时间 : 03/14/2026（弃坑用LOON,停止更新）
   - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/QX.conf)
   
     > 食用方法 : Quantumult X 设置 -> 下载配置 -> 替换节点信息  
